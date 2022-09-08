@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
+
+@media print {
+    html{
+        -webkit-print-color-adjust: exact;
+    }
+
+}
+
+.urdu{
+    font-family: 'Noto Nastaliq Urdu Draft';
+    font-weight: normal;
+}
+
+
+
+span, thead, tfoot{
+    font-weight: bolder;
+}
+
+tfoot{
+    background-color: lightskyblue;
+}

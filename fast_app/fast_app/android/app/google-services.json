@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912509723839",
+    "project_id": "fast-app-2201a",
+    "storage_bucket": "fast-app-2201a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912509723839:android:a33de0e397c2f79695920a",
+        "android_client_info": {
+          "package_name": "ENDTradeStore.FAST"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912509723839-7mho91istnsijvepm1os7254g0hhtp7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LuNvi2zSxL6XwrCdSJlo8T09VroJhx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912509723839-7mho91istnsijvepm1os7254g0hhtp7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
